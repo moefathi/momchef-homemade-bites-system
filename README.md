@@ -47,3 +47,6 @@ The project includes an edited version of my original university report, contain
 - **Subject:** Software Development Life Cycle (SDLC)
 - **Project:** MomChef Homemade Bites
 - **Semester:** Spring 2025
+
+## License
+© 2026 Mohammad Aldeghemat. All rights reserved.
